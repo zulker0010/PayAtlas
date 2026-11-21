@@ -1,0 +1,8 @@
+{
+  "name": "Google maps version PayAtlas",
+  "description": "Interactive Google maps 2D global visualization of digital payment ecosystems across Mobile Wallets, MFS, Card Payments, and NFC \u0026 Contactless with time-of-day transitions and multi-level geographic drill-down.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
